@@ -1,0 +1,10 @@
+{
+	"name": "dots.my",
+	"version": "1.0.0",
+	"description": "Dots game",
+	"dependencies": {
+		"socket.io": "0.9",
+		"express": "3.5.0"
+	},
+	"author": "Viktor Lytvyn"
+}
